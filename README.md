@@ -3,7 +3,7 @@
 One Page de uma confeitaria artesanal **fictícia** em Mauá (SP), criada para a unidade curricular de Front-end (SENAI).
 Receitas de família, cardápio com filtro, depoimentos e formulário de encomenda.
 
-**Site publicado:** _cole aqui o link do GitHub Pages_
+**Site publicado:** [Doces Quintal](https://urubu-card.github.io/)
 
 ## Tecnologias
 HTML5 semântico, CSS3 (variáveis, animações, tema claro/escuro), JavaScript ES6+ e Bootstrap 5.3 (Navbar, Cards, Modal, Carousel, Accordion, Collapse, Scrollspy e grid). Fontes: Fraunces, Nunito e Caveat. Ícones: Bootstrap Icons.
