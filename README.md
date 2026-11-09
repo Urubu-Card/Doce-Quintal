@@ -30,7 +30,7 @@ As fotos ficam em `img/`. Registre aqui a fonte e o crédito de cada uma:
 - `hero-bolo.jpg`, `sobre-cozinha.jpg`, `bolo-fuba.jpg`, `bolo-cenoura.jpg`, `brigadeiro.jpg`, `docinhos.jpg`, `torta-limao.jpg`, `coxinha.jpg`:
 
 ## Formulário por e-mail
-O envio usa o Formspree (gratuito). Crie um formulário em formspree.io, copie o endereço (`https://formspree.io/f/SEU_ID`) e cole em `FORM_ENDPOINT`, no topo de `js/main.js`. Enquanto estiver vazio, o envio é simulado.
+O formulario por enquanto e totalmente local e não funcional
 
 ## Publicação (GitHub Pages)
 1. Envie o projeto para um repositório no GitHub.
